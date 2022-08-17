@@ -15,6 +15,7 @@ public class Calc {
 
     public static void main(String[] args) {
         System.out.println("CALCULADORA!- FUNCIONANDO BIEN");
+        System.out.println("SEAN BIENVENIDOS AL PROCESO DE TAREA 2 BRANCH 2");
         // Se crea un objeto de la clase calculadora
         Calculadora cal=new Calculadora();
         //leemos los datos de entrada
