@@ -15,6 +15,9 @@ public class Calc {
 
     public static void main(String[] args) {
         System.out.println("CALCULADORA!- FUNCIONANDO BIEN");
+         System.out.println("CALCULADORA!- FUNCIONANDO BIEN");
+         System.out.println("CALCULADORA!- FUNCIONANDO BIEN");
+         System.out.println("CALCULADORA!- FUNCIONANDO BIEN");
         // Se crea un objeto de la clase calculadora
         Calculadora cal=new Calculadora();
         //leemos los datos de entrada
